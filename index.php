@@ -1,0 +1,3 @@
+<?php
+solucionando conflictos
+<php?
